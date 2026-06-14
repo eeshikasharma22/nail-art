@@ -132,3 +132,5 @@ The website uses:
 ## License
 
 This project is open source and available under the MIT License.
+![img alt](https://github.com/eeshikasharma22/nail-art/blob/master/nail%20art.jpeg?raw=true)
+
